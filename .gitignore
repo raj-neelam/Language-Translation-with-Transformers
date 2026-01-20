@@ -1,0 +1,7 @@
+runs
+models/*
+model/*
+data/Dataset_English_Hindi.csv
+
+!model/README.md
+!models/README.md
